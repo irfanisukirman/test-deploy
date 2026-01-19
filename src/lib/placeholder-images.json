@@ -1,3 +1,46 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-croissant",
+      "description": "A close-up of a freshly baked, flaky croissant on a rustic wooden board.",
+      "imageUrl": "https://images.unsplash.com/photo-1715873547922-04b1f77141a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjcm9pc3NhbnQlMjBiYWtlcnl8ZW58MHx8fHwxNzY4ODAyODMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "croissant bakery"
+    },
+    {
+      "id": "product-sourdough",
+      "description": "A rustic loaf of sourdough bread with a crispy crust.",
+      "imageUrl": "https://images.unsplash.com/photo-1620921592619-652411a0d01a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzb3VyZG91Z2glMjBicmVhZHxlbnwwfHx8fDE3Njg3OTk0NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sourdough bread"
+    },
+    {
+      "id": "product-cupcake",
+      "description": "A beautifully decorated vanilla cupcake with pink frosting.",
+      "imageUrl": "https://images.unsplash.com/photo-1623843398843-e0c15d374708?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3VwY2FrZSUyMGJha2VyeXxlbnwwfHx8fDE3Njg4MDI4MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cupcake bakery"
+    },
+    {
+      "id": "product-macaron",
+      "description": "A stack of colorful French macarons.",
+      "imageUrl": "https://images.unsplash.com/photo-1709224880492-604a7b15c11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYWNhcm9ucyUyMGNvbG9yZnVsfGVufDB8fHx8MTc2ODgwMjgzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "macarons colorful"
+    },
+    {
+      "id": "product-eclair",
+      "description": "A chocolate eclair filled with cream.",
+      "imageUrl": "https://images.unsplash.com/photo-1613992281296-b48e3d37876b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hvY29sYXRlJTIwZWNsYWlyfGVufDB8fHx8MTc2ODgwMjgzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate eclair"
+    },
+    {
+      "id": "special-cake",
+      "description": "A slice of decadent chocolate layer cake.",
+      "imageUrl": "https://images.unsplash.com/photo-1605807646983-377bc5a76493?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaG9jb2xhdGUlMjBjYWtlfGVufDB8fHx8MTc2ODgwMjI5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate cake"
+    },
+    {
+      "id": "map-location",
+      "description": "A map showing the location of the bakery.",
+      "imageUrl": "https://images.unsplash.com/photo-1717700299581-c2fc3fad4ee8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYXAlMjBjaXR5fGVufDB8fHx8MTc2ODcxODQ2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "map city"
+    }
+  ]
 }
